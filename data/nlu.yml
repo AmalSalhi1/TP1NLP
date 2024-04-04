@@ -1,0 +1,6 @@
+- intent: order_food
+  examples: |
+    - I want to order pizza
+    - Can I get a burger?
+    - Order sushi for me
+    - I'm hungry, order some food

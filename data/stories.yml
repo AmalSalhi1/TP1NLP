@@ -1,0 +1,7 @@
+- story: Order food happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: order_food
+  - action: action_order_food
+  - action: utter_order_confirmation
